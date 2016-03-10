@@ -1,0 +1,18 @@
+{
+  "name": "json-file-enc",
+  "description": "encrypted json for config files",
+  "version": "0.0.1",
+  "main": "./build/module.js",
+  "author": "taky@taky.com",
+  "repository": "douglauer/json-file-enc",
+  "keywords": [
+    "json",
+    "encryption",
+    "flat file",
+    "taky"
+  ],
+  "dependencies": {
+    "easycrypto": "^0.1.1",
+    "lodash": "^4.6.1"
+  }
+}
